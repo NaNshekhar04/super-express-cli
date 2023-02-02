@@ -1,0 +1,28 @@
+{
+  "name": "super-express-cli",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "start-express-server": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaNshekhar04/super-express-cli.git"
+  },
+  "keywords": [],
+  "author": "shekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaNshekhar04/super-express-cli/issues"
+  },
+  "homepage": "https://github.com/NaNshekhar04/super-express-cli#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
