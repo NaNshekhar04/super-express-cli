@@ -13,6 +13,8 @@
 npm install super-express-cli
 
 ```
+![alt text](./assets/Install-command.png)
+
 
 once installed, you can just run the following command from your command-line.
 
@@ -20,8 +22,11 @@ once installed, you can just run the following command from your command-line.
 npx start-express-server
 
 ```
+![alt text](./assets/cli-command.png)
+
 The Above command will create an MVC directory structure for your application
 
+![alt text](./assets/directory-Structure.png)
 
 
 And than just run your server.js file which will serve the express server.
