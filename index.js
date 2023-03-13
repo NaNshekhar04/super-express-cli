@@ -4,7 +4,7 @@ const path = require("path");
 const express = require("express");
 
 const app = express();
-const dir = process.cwd();
+const dir = process.argv[2] || process.cwd();
 
 const modelsDir = path.join(dir, "models");
 const viewsDir = path.join(dir, "views");
@@ -46,7 +46,7 @@ app.listen(3000, () => {
 `);
 
 
-console.log("Express MVC structure created successfully!");
-}else{
+  console.log("Express MVC structure created successfully!");
+} else {
   console.log('Express MVC Directory Structure already exists !');
 }

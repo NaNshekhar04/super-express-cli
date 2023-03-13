@@ -14,7 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/NaNshekhar04/super-express-cli.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "express",
+    "terminal",
+    "MVC",
+    "cli",
+    "framework",
+    "app"
+  ],
   "author": "shekhar",
   "license": "ISC",
   "bugs": {

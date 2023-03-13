@@ -20,6 +20,10 @@ once installed, you can just run the following command from your command-line.
 npx create-express-server
 
 ```
+The Above command will create an MVC directory structure for your application
+
+
+
 And than just run your server.js file which will serve the express server.
 
 ```bash
