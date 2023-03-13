@@ -17,7 +17,7 @@ npm install super-express-cli
 once installed, you can just run the following command from your command-line.
 
 ```bash
-npx create-express-server
+npx start-express-server
 
 ```
 The Above command will create an MVC directory structure for your application

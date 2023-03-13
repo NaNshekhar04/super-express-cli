@@ -1,7 +1,7 @@
 {
   "name": "super-express-cli",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "super-express-cli is a powerful command-line tool that simplifies the process of creating new Express.js applications. With just a few simple commands, you can generate a new application with a basic file structure and pre-configured settings, including middleware and a sample endpoint. super-express-cli is the perfect tool for developers who want to save time and quickly get started with building their Express.js applications.",
   "main": "index.js",
   "scripts": {
     "start": "server.js",
