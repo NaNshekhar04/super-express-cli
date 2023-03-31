@@ -15,6 +15,9 @@ const serverFile = path.join(dir, "server.js");
 if (!fs.existsSync(modelsDir)) {
   fs.mkdirSync(modelsDir);
 }
+if (!fs.existsSync(routesDir)) {
+  fs.mkdirSync(routesDir);
+}
 
 if (!fs.existsSync(viewsDir)) {
   fs.mkdirSync(viewsDir);
